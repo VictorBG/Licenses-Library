@@ -22,6 +22,6 @@ public class MainActivity extends LicensesActivity {
 
     @Override
     public int getActivityStyle() {
-        return DARK;
+        return LIGHT;
     }
 }
