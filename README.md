@@ -2,9 +2,29 @@
 
 A simple library to show the list of licenses your app uses
 
+![Image](https://raw.githubusercontent.com/VictorBG/Licenses-Library/master/screenshots/Screenshot_1508007030.png)![Image](https://raw.githubusercontent.com/VictorBG/Licenses-Library/master/screenshots/Screenshot_1508007049.png)
+
 ## Include in your project
 
-Not yet
+Waiting jcenter approbation
+
+Meanwhile:
+
+Add this into your build.gradle file
+
+```xml
+repositories {
+    maven {
+        url 'https://dl.bintray.com/victorbg/licenses-library'
+    }
+}
+
+...
+
+dependencies {
+    compile 'com.vbg:licenses-library:1.0.2'
+}
+```
 
 ## Usage
 
@@ -83,4 +103,4 @@ new License("Custom license", R.string.example_license)
     See the License for the specific language governing permissions and
     limitations under the License.
 
-    
+
