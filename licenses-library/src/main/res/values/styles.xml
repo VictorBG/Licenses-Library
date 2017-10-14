@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="LicensesDarkTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/dark_statusbar</item>
+        <item name="android:colorControlNormal" tools:targetApi="lollipop">@android:color/white</item>
+
+    </style>
+
+    <style name="LicensesLightTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/light_statusbar</item>
+        <item name="android:colorControlNormal" tools:targetApi="lollipop">@android:color/black</item>
+
+    </style>
+</resources>

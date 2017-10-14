@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_bg">#FAFAFA</color>
+    <color name="light_toolbar">#F5F5F5</color>
+    <color name="light_statusbar">#E0E0E0</color>
+
+    <color name="dark_bg">#303030</color>
+    <color name="dark_toolbar">#212121</color>
+    <color name="dark_statusbar">#000000</color>
+</resources>

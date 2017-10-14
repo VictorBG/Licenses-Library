@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LicensesLibrary</string>
+    <string name="example_license" translatable="false">
+         <![CDATA[
+        An
+        <br>
+        Example
+        <br>
+        Of
+        <br>
+        A
+        <br>
+        Customizable
+        <br>
+        License
+        <br>
+        <br>
+        <strong>Have a great day :)</strong>
+        <br>
+        ]]>
+    </string>
+</resources>

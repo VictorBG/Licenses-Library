@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Licenses library</string>
+    <string name="license_get_error">Error obteniendo la licencia</string>
+</resources>
