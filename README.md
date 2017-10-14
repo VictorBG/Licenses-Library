@@ -2,6 +2,8 @@
 
 A simple library to show the list of licenses your app uses
 
+![Image](https://raw.githubusercontent.com/VictorBG/Licenses-Library/master/screenshots/Screenshot_1508007030.png)![Image](https://raw.githubusercontent.com/VictorBG/Licenses-Library/master/screenshots/Screenshot_1508007049.png)![Image](https://raw.githubusercontent.com/VictorBG/Licenses-Library/master/screenshots/Screenshot_1508007044.png)
+
 ## Include in your project
 
 Not yet
@@ -83,4 +85,4 @@ new License("Custom license", R.string.example_license)
     See the License for the specific language governing permissions and
     limitations under the License.
 
-    
+
