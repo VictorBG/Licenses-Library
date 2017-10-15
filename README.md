@@ -6,17 +6,9 @@ A simple library to show the list of licenses your app uses
 
 ## Include in your project
 
-Waiting jcenter approbation
-
-Meanwhile:
-
-Add this into your build.gradle file
-
 ```xml
 repositories {
-    maven {
-        url 'https://dl.bintray.com/victorbg/licenses-library'
-    }
+    jcenter()
 }
 
 ...
