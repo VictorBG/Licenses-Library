@@ -6,7 +6,7 @@ A simple library to show the list of licenses your app uses
 
 ## Include in your project
 
-```xml
+```gradle
 repositories {
     jcenter()
 }
