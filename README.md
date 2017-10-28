@@ -76,7 +76,7 @@ new License("Custom license", R.string.example_license)
 
 ## Developed By
 
-* Víctor Blanco
+* [Víctor Blanco](http://victorblancogarcia.com)
 * <victorblancogarcia3@gmail.com>
 
 ## License
